@@ -1,0 +1,80 @@
+header{
+	font-family: "Philosopher";
+}
+
+
+.nav {
+	font-family: "Muli";	
+	font-size: 13px;
+}
+
+.nav-pills {
+	max-width: 500px;
+	width: 80%;
+}
+
+
+.main {
+	width: 700px;
+	float: right;
+}
+
+.about {
+	border: 2px;
+	border-style: solid;
+	width: 500px;
+}
+
+body {
+	text-align: center;
+}
+
+#bod {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.about {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.jumbotron {
+	background-image: url("http://static1.squarespace.com/static/53850ae4e4b07403a8215f1b/t/53a8db9ce4b0222e1cd8f8f2/1403575208482/tumblr_static_vintage-piano.jpg?format=2500w");
+	background-repeat: no-repeat;
+	color: black;
+	height: 450px;
+	opacity: .7;
+
+}
+
+#jumbotext {
+	border-style: solid;
+	width: 50%;
+	text-align: center;
+	font-family: "Satisfy";
+	margin: 0 auto;
+}
+
+.btn {
+	background-color: #52527a;
+	color: white;
+
+}
+
+.btn-lg{
+	font-family: "Arial";	
+}
+
+#practice{
+	text-align: left;
+	margin-left: 10%;
+	border: double;
+	margin-right: 15%;
+	font-family: "Lato", sans;
+}
+
+#practice p {
+	font-family: "Great Vibes", cursive;
+	font-size: 40px;
+}
